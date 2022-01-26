@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "node-xlsx": "^0.21.0",
+    "puppeteer": "^13.1.1"
+  },
+  "devDependencies": {
+    "playwright": "^1.18.0",
+    "typescript": "^4.5.5"
+  }
+}
