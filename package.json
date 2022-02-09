@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "axios": "^0.25.0",
+    "excel4node": "^1.7.2",
+    "exceljs": "^4.3.0",
+    "node-fetch": "^3.2.0",
     "node-xlsx": "^0.21.0",
     "puppeteer": "^13.1.1"
   },
